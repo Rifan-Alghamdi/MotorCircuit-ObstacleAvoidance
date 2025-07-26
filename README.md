@@ -17,7 +17,7 @@ The key value of this circuit lies in how it connects different concepts—motio
 | File Name                        | Description                                 |
 |----------------------------------|---------------------------------------------|
 | screenshot-MotorCircuit.jpg    | Screenshot of the circuit in Tinkercad      |
-| MotorCircuit-ObstacleAvoidance.ino | Full Arduino code                         |
+| motorcircuit_obstacleavoidance.ino | Full Arduino code                         |
 
 ---
 
