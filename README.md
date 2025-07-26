@@ -1,16 +1,15 @@
 # MotorCircuit-ObstacleAvoidance
 
-This project showcases a smart obstacle-avoiding robot built in Tinkercad using four DC motors controlled by an L293D driver, an ultrasonic sensor, and a servo motor. The robot moves forward, scans for obstacles within 10 cm, then stops, moves back, scans left and right, and turns toward the clearer path. It resumes moving forward based on sensor readings. This simulation demonstrates multi-motor control, sensor integration, and decision-making with Arduino.
+This project presents a beginner-friendly yet powerful example of intelligent robotics using simple electronic components. The design focuses on combining motion control and environmental awareness to simulate autonomous decision-making in a small-scale robot.
+
+By integrating four DC motors with an L293D motor driver and enhancing the system with an ultrasonic distance sensor mounted on a servo motor, the robot gains the ability to move freely while detecting and responding to obstacles in real time. Unlike basic circuits that follow a fixed path, this system reacts dynamically to its environment, offering a glimpse into how real-world autonomous robots function.
+
+The key value of this circuit lies in how it connects different concepts—motion control, sensor data reading, signal processing, and conditional logic—into one cohesive, interactive system. It provides a strong foundation for learning how multiple hardware components can cooperate under one program to achieve smart behavior, making it ideal for educational and prototyping purposes in robotics and embedded systems.
 
 ---
 ## 📷 Screenshot
 
 <img src="screenshot-MotorCircuit.jpg" alt="Motor Circuit Screenshot" width="800"/>
----
-
-## 📌 Overview
-
-When powered on, the robot moves forward. If an obstacle is detected within 10 cm, the robot stops, moves backward, and uses the servo motor to rotate the ultrasonic sensor to scan both right and left directions. Based on the measured distances, it chooses the clearer path and resumes moving forward.
 
 ---
 ## 📂 Included Files
