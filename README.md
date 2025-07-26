@@ -9,7 +9,7 @@ The key value of this circuit lies in how it connects different concepts—motio
 ---
 ## 📷 Screenshot
 
-<img src="MotorCircuit.ObstacleAvoidance.png" alt="Motor Circuit Screenshot" width="800"/>
+<img src="MotorCircuit.ObstacleAvoidance.png" alt="Motor Circuit Screenshot" width="1200"/>
 
 ---
 ## 📂 Included Files
