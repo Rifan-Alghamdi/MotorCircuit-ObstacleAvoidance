@@ -5,7 +5,7 @@ This project showcases a smart obstacle-avoiding robot built in Tinkercad using 
 ---
 ## 📷 Screenshot
 
-<img src="screenshot-MotorCircuit.png" alt="Motor Circuit Screenshot" width="600"/>
+<img src="screenshot-MotorCircuit.jpg" alt="Motor Circuit Screenshot" width="800"/>
 ---
 
 ## 📌 Overview
@@ -42,7 +42,7 @@ When powered on, the robot moves forward. If an obstacle is detected within 10 c
 
 | File Name                        | Description                                 |
 |----------------------------------|---------------------------------------------|
-| screenshot-MotorCircuit.png    | Screenshot of the circuit in Tinkercad      |
+| screenshot-MotorCircuit.jpg    | Screenshot of the circuit in Tinkercad      |
 | MotorCircuit-ObstacleAvoidance.ino | Full Arduino code                         |
 
 ---
