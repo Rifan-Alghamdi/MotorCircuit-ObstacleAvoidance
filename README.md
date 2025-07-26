@@ -28,13 +28,18 @@ When powered on, the robot moves forward. If an obstacle is detected within 10 c
 
 ---
 
-## 🪛 Wiring Summary
+## 💡 Key Features
+ • Autonomous obstacle avoidance
+ • Dynamic direction selection using servo scan
+ • Multi-motor coordination
+ • Real-time distance detection
+ • Arduino-based control logic
 
-- Motors connected to PWM pins (D3, D6, D9, D11) and controlled using L293D outputs.
-- Ultrasonic Sensor connected to A0 (Echo) and A1 (Trig).
-- Servo Motor connected to A5.
-- All pins are configured as OUTPUT or INPUT in the setup.
+---
 
+## 🧠 How It Works
+
+The robot continuously moves forward until it detects an obstacle closer than 10 cm. It then stops, moves backward, scans left and right with the servo-mounted ultrasonic sensor, and turns toward the path with more space. This cycle allows continuous navigation in cluttered environments.
 
 ---
 
