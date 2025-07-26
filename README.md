@@ -13,6 +13,14 @@ This project showcases a smart obstacle-avoiding robot built in Tinkercad using 
 When powered on, the robot moves forward. If an obstacle is detected within 10 cm, the robot stops, moves backward, and uses the servo motor to rotate the ultrasonic sensor to scan both right and left directions. Based on the measured distances, it chooses the clearer path and resumes moving forward.
 
 ---
+## 📂 Included Files
+
+| File Name                        | Description                                 |
+|----------------------------------|---------------------------------------------|
+| screenshot-MotorCircuit.jpg    | Screenshot of the circuit in Tinkercad      |
+| MotorCircuit-ObstacleAvoidance.ino | Full Arduino code                         |
+
+---
 
 ## 🧩 Components Used
 
@@ -43,16 +51,8 @@ The robot continuously moves forward until it detects an obstacle closer than 10
 
 ---
 
-## 📂 Included Files
 
-| File Name                        | Description                                 |
-|----------------------------------|---------------------------------------------|
-| screenshot-MotorCircuit.jpg    | Screenshot of the circuit in Tinkercad      |
-| MotorCircuit-ObstacleAvoidance.ino | Full Arduino code                         |
-
----
-
-## 🧠 Arduino Code
+## ⚙️ Arduino Code
 
 ```cpp
 #include <Servo.h>
