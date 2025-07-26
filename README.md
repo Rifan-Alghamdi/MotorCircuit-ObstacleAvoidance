@@ -9,14 +9,14 @@ The key value of this circuit lies in how it connects different concepts—motio
 ---
 ## 📷 Screenshot
 
-<img src="screenshot-MotorCircuit.jpg" alt="Motor Circuit Screenshot" width="800"/>
+<img src="screenshot-MotorCircuit.png" alt="Motor Circuit Screenshot" width="800"/>
 
 ---
 ## 📂 Included Files
 
 | File Name                        | Description                                 |
 |----------------------------------|---------------------------------------------|
-| screenshot-MotorCircuit.jpg    | Screenshot of the circuit in Tinkercad      |
+| screenshot-MotorCircuit.png    | Screenshot of the circuit in Tinkercad      |
 | motorcircuit_obstacleavoidance.ino | Full Arduino code                         |
 
 ---
